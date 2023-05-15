@@ -1,11 +1,11 @@
 <?php
 
-namespace test_package;
+namespace tests_package;
 
 class HelloWorld
 {
     public static function sayHello()
     {
-        echo "Hello Worldd";
+        echo "Hello World";
     }
 }
